@@ -25,11 +25,11 @@ I'm a Master’s graduate in Computer Engineering from the University of Califor
 - 💼 Former Software Development Engineer Intern at iRobot and HSBC, where I developed user-centric applications and streamlined processes.
 
 ## Let's Connect:
-- 📫 How to reach me: [✉️] (amane011@ucr.edu)  📞 +1 (213)839-0557
+- 📫 How to reach me: ✉️ amane011@ucr.edu  📞 +1 (213)839-0557
 - 💼 [LinkedIn](https://www.linkedin.com/in/ankit-mane-9490b3163/)
 - 🗂 Check out my contributions and projects here on GitHub.
 
 ## Fun Fact:
-- 🎮 In my free time, I love to explore the latest in tech, play video games, and contribute to open-source projects.
+- 🎮 In my free time, I love to explore the latest in tech, work-out, and contribute to open-source projects.
 
 Let's create something amazing together!

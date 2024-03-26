@@ -1,6 +1,6 @@
 ---
 title: "Github Followers"
-excerpt: "GitHub Repos is a comprehensive and dynamic application designed to enhance the GitHub browsing experience. <br/><img src='/images/ss1.png'>"
+excerpt: "GitHub Repos is a comprehensive and dynamic application designed to enhance the GitHub browsing experience. <br/><img src='/images/ss1.png' style='height:40%; width:40%;'>"
 collection: portfolio
 ---
 

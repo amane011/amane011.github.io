@@ -1,6 +1,6 @@
 ---
 title: "Github Followers"
-excerpt: "GitHub Repos is a comprehensive and dynamic application designed to enhance the GitHub browsing experience. <br/><img src='/images/ss1.jpeg'>"
+excerpt: "GitHub Repos is a comprehensive and dynamic application designed to enhance the GitHub browsing experience. <br/><img src='/images/ss1.png'>"
 collection: portfolio
 ---
 
@@ -37,7 +37,7 @@ This application is perfect for developers, researchers, and anyone interested i
 
 
 # Screen Video:
-<video width="50%" height="50%" controls>
+<video width="40%" height="40%" controls>
   <source src="/videos/GithubFollowers.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>

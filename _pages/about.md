@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Master’s graduate in Computer Engineering from the University of California Riverside, passionate about developing innovative iOS applications that make a real difference. With a strong foundation in computer science from Vishwakarma Institute of Technology, India, I've honed my skills in a variety of programming languages and development tools, including Java, Kotlin, Swift, Python, C, C++, and JavaScript.
+I'm a Master’s graduate in Computer Engineering from the University of California Riverside, passionate about developing innovative iOS applications that make a real difference. Skilled in Java, Kotlin, Swift, Python, C, C++, and JavaScript, I excel in finding innovative solutions that make a real difference. My problem-solving abilities are a cornerstone of my work, driving me to create applications that are not only innovative but also impactful.
 
 ## What I'm Up To:
-- 🔭 Currently, I'm focusing on expanding my expertise in iOS development, diving deep into Objective-C, Swift, and exploring new frontiers in app development with AR and VR.
+- 🔭 Currently, I'm focusing on expanding my expertise in iOS development, diving deep into Objective-C, SwiftUI, and exploring new frontiers in app development with AR and VR.
 - 🌱 I'm on a constant learning journey, currently exploring GIS, RESTful web services, and enhancing my understanding of spatial/mapping applications.
 - 👯 I'm looking to collaborate on projects that are at the intersection of technology and social impact, especially those that leverage location-aware applications to solve real-world problems.
 
@@ -31,6 +31,6 @@ I'm a Master’s graduate in Computer Engineering from the University of Califor
 - 🗂 Check out my contributions and projects here on GitHub.
 
 ## Fun Fact:
-- 🎮 In my free time, I love to explore the latest in tech, work-out, and contribute to open-source projects.
+- 💪 In my free time, I love to explore the latest in tech, work-out, and contribute to open-source projects.
 
 Let's create something amazing together!

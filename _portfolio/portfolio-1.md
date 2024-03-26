@@ -4,7 +4,7 @@ excerpt: "GitHub Repos is a comprehensive and dynamic application designed to en
 collection: portfolio
 ---
 
-# GitHub Repos Application
+
 
 ## Overview
 
@@ -36,7 +36,9 @@ collection: portfolio
 This application is perfect for developers, researchers, and anyone interested in exploring GitHub profiles more deeply and efficiently. With its user-centric design and powerful features, **GitHub Repos** stands out as an essential tool for the GitHub community.
 
 
-# Linkedin Post:
-https://www.linkedin.com/posts/ankit-mane-9490b3163_iosdevelopment-iosdev-github-activity-7133918154208002048-ELb0?utm_source=share&utm_medium=member_desktop
-
+# Screen Video:
+<video width="100%" height="auto" controls>
+  <source src="/videos/GithubFollowers.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 

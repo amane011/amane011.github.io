@@ -16,16 +16,16 @@ Travel Guide is an application designed to showcase the powerful string catalog 
 ### Demonstrations
 
 #### Plural "attractions" in English:
-![Plural "attractions" in English](https://github.com/superarts/XStringCatalog/assets/123193869/0f1fd333-b582-4111-b221-7e24948df08c)
+<img src="https://github.com/superarts/XStringCatalog/assets/123193869/0f1fd333-b582-4111-b221-7e24948df08c" width="30%" height="auto">
 
 #### Singular "attraction" in English:
-![Singular "attraction" in English](https://github.com/superarts/XStringCatalog/assets/123193869/0fa4ccb2-afcf-4554-a252-b780155452aa)
+<img src="https://github.com/superarts/XStringCatalog/assets/123193869/0fa4ccb2-afcf-4554-a252-b780155452aa" width="30%" height="auto">
 
 #### Singular "attraction" in Hindi:
-![Singular "attraction" in Hindi](https://github.com/superarts/XStringCatalog/assets/123193869/f4817e04-54a6-4d04-bcfa-e66202b73c68)
+<img src="https://github.com/superarts/XStringCatalog/assets/123193869/f4817e04-54a6-4d04-bcfa-e66202b73c68" width="30%" height="auto">
 
 #### Plural "attractions" in Hindi:
-![Plural "attractions" in Hindi](https://github.com/superarts/XStringCatalog/assets/123193869/61e4f86a-76a1-47d0-b662-523a8fffcf68)
+<img src="https://github.com/superarts/XStringCatalog/assets/123193869/61e4f86a-76a1-47d0-b662-523a8fffcf68" width="30%" height="auto">
 
 ## Getting Started
 

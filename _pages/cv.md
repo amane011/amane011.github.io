@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Work Experience"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Overview
+This document summarizes my professional work experience in the field of software development, focusing on my roles, responsibilities, and achievements. With a strong foundation in iOS and Android development, I have contributed to significant projects and enhancements in mobile applications, showcasing my skills in Swift, Objective-C, Java, and cross-platform development.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Experience
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### iRobot - Software Development Engineer Intern (iOS Mobile team)
+**Location:** Boston, MA  
+**Duration:** Jun 2023 - Mar 2024
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Led the development of the 'Time Box' feature for the Dirt Detective component, enhancing the cleaning process's efficiency by overseeing ViewModel and ViewController aspects.
+- Spearheaded the MVVM architecture refactoring of schedule editor and view model in Swift, improving system responsiveness and maintainability
+- Developed features and enhancements in Objective-C to improve the mission initiation process, including an alert mechanism for missions without a room label.
+- Engineered cross-platform C++ libraries with Djinni interfaces, facilitating seamless integration between Android/iOS and common codebases, enhancing development efficiency.
+- Enhanced the app’s onboarding experience, leading to a 60% decrease in user drop-off after QR code scanning.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### HSBC - Software Engineer (iOS insurance app)
+**Location:** Pune, India  
+**Duration:** Aug 2021 - May 2022
+
+- Developed a user-friendly FAQ page within the insurance app's contact us screen, resulting in a 30% decrease in customer support calls.
+- Crafted reusable UI layouts in SwiftUI, improving app loading times by 15%.
+
+### OnShape - Software Engineering Intern (Android app)
+**Location:** Pune, India  
+**Duration:** Jun 2019 - Aug 2019
+
+- Implemented an advanced filter feature in Java for the Onshape Android app, improving user efficiency by 40%.
+- Created and integrated small-sized fragments for filtering components, enhancing app functionality and performance.

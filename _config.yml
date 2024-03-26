@@ -21,10 +21,10 @@ repository               : "amane011/amane011.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/ProfilPic.jpeg"
   name             : "Ankit Mane"
   pronouns         : # example: "she/her"  
-  bio              : "Passionate iOS developer looking to make a difference"
+  bio              : "iOS developer"
   location         : "California"
   employer         : "iRobot"
   uri              : # URL

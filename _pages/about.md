@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there 👋, I'm Ankit Mane!`"
+title: "Hi there 👋, I'm Ankit Mane!"
 author_profile: true
 redirect_from: 
   - /about/
